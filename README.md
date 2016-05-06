@@ -15,8 +15,8 @@ Bash on Windows
 Microsoft Bot framework
 
 Machine learning
-	- LUIS
-	- Cortana Analytics
+* LUIS
+* Cortana Analytics
 
 .NET Core
 
