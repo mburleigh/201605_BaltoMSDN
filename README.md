@@ -21,6 +21,7 @@ Bash on Windows
 
 Microsoft Bot framework
 * conversation canvas
+* bot as assistant
 
 Machine learning
 * LUIS
