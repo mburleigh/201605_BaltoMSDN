@@ -7,22 +7,39 @@ Xamarin is free!
 * Open source
 * MIT license
 * iOS emulator in Visual Studio
+* Xamarin workbooks
 
 Windows 10 Anniversary Edition
+* ink space
+
+Universal Windows Platform
 
 Docker for Windows
 
 Bash on Windows
 
 Microsoft Bot framework
+* conversation canvas
 
 Machine learning
 * LUIS
-* Cortana Analytics
+* Cortana Intelligence Suite
+* cognitive APIs
+* CRIS
 
 .NET Core
 
 Xbox dev mode
+
+Hololens
+
+Azure
+* IoT
+* Service Fabric GA
+
+Power BI
+
+Modern Office Addins
 
 
 # Day 1 Keynote featuring Satya Nadella, Terry Myerson, Kevin Gallo, Phil Spencer, Alex Kipman, Lili Cheng and others.
