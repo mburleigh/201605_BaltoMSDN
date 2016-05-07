@@ -19,12 +19,17 @@ Docker for Windows
 
 Bash on Windows
 
-Microsoft Bot framework
+Microsoft Bot framework (www.botframework.com)
 * conversation canvas
 * bot as assistant
+* bot builder sdk
+* bot connector
+* bot emulator (need url)
 
 Machine learning
-* LUIS
+* LUIS (need url)
+** intent
+** entities
 * Cortana Intelligence Suite
 * cognitive APIs
 * CRIS
