@@ -25,7 +25,7 @@ Machine learning
 Xbox dev mode
 
 
-Day 1 Keynote featuring Satya Nadella, Terry Myerson, Kevin Gallo, Phil Spencer, Alex Kipman, Lili Cheng and others.
+# Day 1 Keynote featuring Satya Nadella, Terry Myerson, Kevin Gallo, Phil Spencer, Alex Kipman, Lili Cheng and others.
 * [00:53] Satya Nadella Kicks off Build 2016
 * [04:47] Microsoft Mission
 * [05:47] Mobile First Cloud First
@@ -73,7 +73,7 @@ Day 1 Keynote featuring Satya Nadella, Terry Myerson, Kevin Gallo, Phil Spencer,
 * [2:09:32] CRIS
 * [2:12:55] Satya Nadella, "Imagine what's possible"
 * [2:13:37] Imagine today and the future with Saqib Shaikh
-Day 2 keynote
+# Day 2 keynote
 * [00:01] Scott Guthrie, Executive Vice President, Cloud + Enterprise, Kicks off Day Two of Build 2016 
 * [05:25] Azure Momentum 
 * [06:54] Web + Mobile 
