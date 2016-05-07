@@ -4,10 +4,11 @@ May 2016 BaltoMSDN presentation: Build 2016 recap
 https://www.microsoft.com/en-us/download/details.aspx?id=51691 (desktop app converter)
 
 Xamarin is free!
+* for all versions of Visual Studio
 * Open source
 * MIT license
 * iOS emulator in Visual Studio
-* Xamarin workbooks
+* Xamarin workbooks/inspector
 
 Windows 10 Anniversary Edition
 * ink space
@@ -34,7 +35,7 @@ Xbox dev mode
 Hololens
 
 Azure
-* IoT
+* IoT (azureiotsuite.com)
 * Service Fabric GA
 
 Power BI
