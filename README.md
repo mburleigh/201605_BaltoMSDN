@@ -73,7 +73,9 @@ Xbox dev mode
 * [2:09:32] CRIS
 * [2:12:55] Satya Nadella, "Imagine what's possible"
 * [2:13:37] Imagine today and the future with Saqib Shaikh
+
 # Day 2 keynote
+
 * [00:01] Scott Guthrie, Executive Vice President, Cloud + Enterprise, Kicks off Day Two of Build 2016 
 * [05:25] Azure Momentum 
 * [06:54] Web + Mobile 
