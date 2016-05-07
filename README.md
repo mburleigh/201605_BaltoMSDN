@@ -30,6 +30,7 @@ Machine learning
 * LUIS (need url)
 ** intent
 ** entities
+** utterance
 * Cortana Intelligence Suite
 * cognitive APIs
 * CRIS
