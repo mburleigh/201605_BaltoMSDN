@@ -42,7 +42,7 @@ Xbox dev mode
 Hololens
 
 Azure
-* [IoT](azureiotsuite.com)
+* [IoT](https://azure.microsoft.com/en-us/solutions/iot-suite/)
 * Service Fabric GA
 
 Power BI
