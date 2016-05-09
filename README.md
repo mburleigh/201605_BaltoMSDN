@@ -8,32 +8,32 @@ Xamarin is free!
 * Open source
 * MIT license
 * iOS emulator in Visual Studio
-* Xamarin workbooks/inspector
+* [Xamarin workbooks/inspector](https://developer.xamarin.com/guides/cross-platform/workbooks/)
 
 Windows 10 Anniversary Edition
 * ink space
+* Bash
 
 Universal Windows Platform
 
 Docker for Windows
 
-Bash on Windows
-
-Microsoft Bot framework (www.botframework.com)
+[Microsoft Bot framework](www.botframework.com)
 * conversation canvas
 * bot as assistant
 * bot builder sdk
 * bot connector
-* bot emulator (need url)
+* [bot emulator](http://docs.botframework.com/connector/tools/bot-framework-emulator/)
+* [Facebook bots](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
 
 Machine learning
-* LUIS (need url)
+* [LUIS](https://www.luis.ai/)
 ** intent
 ** entities
 ** utterance
 * Cortana Intelligence Suite
 * cognitive APIs
-* CRIS
+* [CRIS](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
 
 .NET Core
 
@@ -42,7 +42,7 @@ Xbox dev mode
 Hololens
 
 Azure
-* IoT (azureiotsuite.com)
+* [IoT](azureiotsuite.com)
 * Service Fabric GA
 
 Power BI
