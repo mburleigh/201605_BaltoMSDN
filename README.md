@@ -1,6 +1,8 @@
 # Notes
 May 2016 BaltoMSDN presentation: Build 2016 recap
 
+markdown test
+
 https://www.microsoft.com/en-us/download/details.aspx?id=51691 (desktop app converter)
 
 Xamarin is free!
