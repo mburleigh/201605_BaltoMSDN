@@ -27,12 +27,12 @@ Docker for Windows
 * [Facebook bots](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
 
 Machine learning
-* [LUIS](https://www.luis.ai/)
+* [LUIS](https://www.luis.ai/) (http://www.androidcentral.com/parsey-mcparseface-googles-open-source-bid-help-machines-understand-english)
 ** intent
 ** entities
 ** utterance
 * Cortana Intelligence Suite
-* cognitive APIs
+* cognitive APIs (https://www.microsoft.com/cognitive-services/)
 * [CRIS](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
 
 .NET Core
