@@ -65,7 +65,7 @@ ASP.Net Core 1.0 (formerly known as ASP.NET 5)
   * NuGet for server side .Net code
 * event bindings for Gulp tasks
 * Tag helpers (asp-* attributes)
-* 
+* runs on any cloud (Azure, EC2, GDE, Docker)
 
 Xbox dev mode
 
