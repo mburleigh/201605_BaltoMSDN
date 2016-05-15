@@ -15,6 +15,7 @@ Xamarin is free!
 Windows 10 Anniversary Edition
 * ink space
 * Bash
+* Windows Subsystem for Linux
 
 Universal Windows Platform
 
