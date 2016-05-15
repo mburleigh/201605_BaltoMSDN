@@ -13,7 +13,11 @@ Xamarin is free!
 Windows 10 Anniversary Edition
 * ink space
 * Bash
-* Windows Subsystem for Linux
+  * Windows Subsystem for Linux
+  * Uservoice (https://wpdev.uservoice.com/forums/266908-command-prompt-console-bash-on-ubuntu-on-windo)
+  * command line tools only
+  * users/(username)/AppData/Local/lxss
+  * 64 bit only
 
 Universal Windows Platform
 
@@ -37,6 +41,21 @@ Machine learning
 * [CRIS](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
 
 .NET Core
+* nothing you can't build with .Net
+* PCL targets a set of platforms
+  * not all APIs on all platforms
+* => .Net Standard Library (most common denominator across all platforms)
+* http://dotnet.github.io (all commits go through the same quality checks)
+* .Net Foundation
+* XAML edit & continue (like F12 tools in browser) in VA "15" (not VS2015!!!)
+* F# support in .Net Core
+* Roslyn code analyzers (need link) (NuGet based)
+* Code Style
+* indexing remote source code
+* fully supported on RHEL
+
+ASP.Net Core 1.0
+* 
 
 Xbox dev mode
 
