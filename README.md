@@ -59,6 +59,12 @@ ASP.Net Core 1.0 (formerly known as ASP.NET 5)
 * unified controller classes
 * runs on 4.6 *AND* Core 1.0
 * completely OSS when running on Core 1.0
+* 10x performance improvement
+* modular composable Middleware (use only the parts needed for a specific URL)
+* include support for Bower, NPM
+  * NuGet for server side .Net code
+* event bindings for Gulp tasks
+* Tag helpers (asp-* attributes)
 * 
 
 Xbox dev mode
