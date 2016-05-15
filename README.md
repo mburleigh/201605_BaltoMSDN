@@ -30,6 +30,13 @@ Docker for Windows
 * bot connector
 * [bot emulator](http://docs.botframework.com/connector/tools/bot-framework-emulator/)
 * [Facebook bots](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
+* host anywhere
+* register at dev.botframework command (gets your appId & app secret)
+* use FormBuilder to generate interactive dialogs with bot
+  * use annotation attributes to get rich experience
+  * can include validations
+  * can be integrated with LUIS to prefilled information
+* session B855
 
 Machine learning
 * [LUIS](https://www.luis.ai/) (http://www.androidcentral.com/parsey-mcparseface-googles-open-source-bid-help-machines-understand-english)
