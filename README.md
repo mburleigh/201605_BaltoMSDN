@@ -1,8 +1,6 @@
 # Notes
 May 2016 BaltoMSDN presentation: Build 2016 recap
 
-markdown test
-
 https://www.microsoft.com/en-us/download/details.aspx?id=51691 (desktop app converter)
 
 Xamarin is free!
@@ -31,9 +29,9 @@ Docker for Windows
 
 Machine learning
 * [LUIS](https://www.luis.ai/) (http://www.androidcentral.com/parsey-mcparseface-googles-open-source-bid-help-machines-understand-english)
-** intent
-** entities
-** utterance
+  * intent
+  * entities
+  * utterance
 * Cortana Intelligence Suite
 * cognitive APIs (https://www.microsoft.com/cognitive-services/)
 * [CRIS](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
