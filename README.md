@@ -54,7 +54,11 @@ Machine learning
 * indexing remote source code
 * fully supported on RHEL
 
-ASP.Net Core 1.0
+ASP.Net Core 1.0 (formerly known as ASP.NET 5)
+* VS15 installs in under 2 minutes
+* unified controller classes
+* runs on 4.6 *AND* Core 1.0
+* completely OSS when running on Core 1.0
 * 
 
 Xbox dev mode
