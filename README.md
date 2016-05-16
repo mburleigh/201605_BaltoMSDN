@@ -1,8 +1,6 @@
 # Notes
 May 2016 BaltoMSDN presentation: Build 2016 recap
 
-markdown test
-
 https://www.microsoft.com/en-us/download/details.aspx?id=51691 (desktop app converter)
 
 Xamarin is free!
@@ -15,6 +13,11 @@ Xamarin is free!
 Windows 10 Anniversary Edition
 * ink space
 * Bash
+  * Windows Subsystem for Linux
+  * Uservoice (https://wpdev.uservoice.com/forums/266908-command-prompt-console-bash-on-ubuntu-on-windo)
+  * command line tools only
+  * users/(username)/AppData/Local/lxss
+  * 64 bit only
 
 Universal Windows Platform
 
@@ -27,17 +30,49 @@ Docker for Windows
 * bot connector
 * [bot emulator](http://docs.botframework.com/connector/tools/bot-framework-emulator/)
 * [Facebook bots](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
+* host anywhere
+* register at dev.botframework command (gets your appId & app secret)
+* use FormBuilder to generate interactive dialogs with bot
+  * use annotation attributes to get rich experience
+  * can include validations
+  * can be integrated with LUIS to prefilled information
+* session B855
 
 Machine learning
 * [LUIS](https://www.luis.ai/) (http://www.androidcentral.com/parsey-mcparseface-googles-open-source-bid-help-machines-understand-english)
-** intent
-** entities
-** utterance
+  * intent
+  * entities
+  * utterance
 * Cortana Intelligence Suite
 * cognitive APIs (https://www.microsoft.com/cognitive-services/)
 * [CRIS](https://www.microsoft.com/cognitive-services/en-us/custom-recognition-intelligent-service-cris)
 
 .NET Core
+* nothing you can't build with .Net
+* PCL targets a set of platforms
+  * not all APIs on all platforms
+* => .Net Standard Library (most common denominator across all platforms)
+* http://dotnet.github.io (all commits go through the same quality checks)
+* .Net Foundation
+* XAML edit & continue (like F12 tools in browser) in VA "15" (not VS2015!!!)
+* F# support in .Net Core
+* Roslyn code analyzers (need link) (NuGet based)
+* Code Style
+* indexing remote source code
+* fully supported on RHEL
+
+ASP.Net Core 1.0 (formerly known as ASP.NET 5)
+* VS15 installs in under 2 minutes
+* unified controller classes
+* runs on 4.6 *AND* Core 1.0
+* completely OSS when running on Core 1.0
+* 10x performance improvement
+* modular composable Middleware (use only the parts needed for a specific URL)
+* include support for Bower, NPM
+  * NuGet for server side .Net code
+* event bindings for Gulp tasks
+* Tag helpers (asp-* attributes)
+* runs on any cloud (Azure, EC2, GDE, Docker)
 
 Xbox dev mode
 
