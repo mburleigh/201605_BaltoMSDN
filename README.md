@@ -73,6 +73,28 @@ ASP.Net Core 1.0 (formerly known as ASP.NET 5)
 * event bindings for Gulp tasks
 * Tag helpers (asp-* attributes)
 * runs on any cloud (Azure, EC2, GDE, Docker)
+* RC2 release?
+
+Future of C#
+* Run everywhere 
+* deploy with app
+* compile to native
+* Open compiler APIs (Roslyn)
+* use your favorite editor
+* Open source
+* -> one code base for understanding C#
+* C# 7
+  * tuple function returns (useful for async)
+  * named tuple elements (shows up in Intellisense)
+  * local functions (keeps context)
+  * tuple is like parameter list
+  * new underlying tuple is struct
+  * use tuple as dictionary key
+  * patterns in C# (V is Int i)
+  * patterns can be used as case switches (and can include conditions)
+    * implies order of evaluation
+  * ref function return
+* 
 
 Xbox dev mode
 
